@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/equiguard/sw.js', { scope: '/equiguard/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/equiguard_test/sw.js', { scope: '/equiguard_test/' })})}
